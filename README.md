@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @callumcball
 - 👀 I’m interested in biomedical engineering, AI, Public Health, and Government.
-- 🌱 I’m currently learning Python, LabVIEW, R, and MatLab.
+- 🌱 I’m currently learning Python and R along with some LabVIEW.
 - 💞️ I’m looking to collaborate on machine learning and biomedical engineering projects.
 - 📫 How to reach me: callumball@ymail.com
 
